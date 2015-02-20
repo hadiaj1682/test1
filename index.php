@@ -6,5 +6,6 @@ echo '<br>';
 echo 'Ops!';
 echo '<br>';
 echo 'Bingo!';
-echo 'ddd';
+echo '<br>';
+echo '^_^';
 ?>
